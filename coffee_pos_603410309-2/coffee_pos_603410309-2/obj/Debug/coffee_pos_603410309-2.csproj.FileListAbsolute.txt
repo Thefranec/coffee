@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\bin\Debug\coffee_pos_603410309-2.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\bin\Debug\coffee_pos_603410309-2.exe
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\bin\Debug\coffee_pos_603410309-2.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\obj\Debug\coffee_pos_603410309-2.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\obj\Debug\coffee_pos_603410309_2.Form1.resources
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\obj\Debug\coffee_pos_603410309_2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\obj\Debug\coffee_pos_603410309-2.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\obj\Debug\coffee_pos_603410309-2.exe
+c:\users\administrator\documents\visual studio 2017\Projects\coffee_pos_603410309-2\coffee_pos_603410309-2\obj\Debug\coffee_pos_603410309-2.pdb
